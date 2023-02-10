@@ -45,4 +45,3 @@ $view_user = $user;
  
 // 画面表示
 include_once '../Views/post.php';
-Models / tweets.php
